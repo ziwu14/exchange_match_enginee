@@ -1,0 +1,18 @@
+version: '2.0'
+
+services:
+  redis:
+    image: redis
+  exchange:
+    build: .
+    volumes: 
+      - './src:/go/src/app' # If you set ./src -> /go/src/, Volume will overwrite the pkg you get using go get when you run docker build.
+    command: bash -c "go run /go/src/app/main.go"
+    # command: tail -F anything # This command is for entering the bash.
+    # command: bash -c "go run /go/src/command_pattern_and_executor.go"
+    ports:
+      - "12345:12345"
+    tty: true
+    depends_on:
+      - redis
+

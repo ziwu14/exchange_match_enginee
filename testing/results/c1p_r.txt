@@ -1,0 +1,400 @@
+<results>
+  <created id="12345"/>
+  <created sym="SPY" id="12345"/>
+</results>
+<results>
+  <error id="12345">user already exists</error>
+  <created sym="SPY" id="12345"/>
+</results>
+<results>
+  <error id="12345">user already exists</error>
+  <created sym="SPY" id="12345"/>
+</results>
+<results>
+  <error id="12345">user already exists</error>
+  <created sym="SPY" id="12345"/>
+</results>
+<results>
+  <error id="12345">user already exists</error>
+  <created sym="SPY" id="12345"/>
+</results>
+<results>
+  <error id="12345">user already exists</error>
+  <created sym="SPY" id="12345"/>
+</results>
+<results>
+  <error id="12345">user already exists</error>
+  <created sym="SPY" id="12345"/>
+</results>
+<results>
+  <error id="12345">user already exists</error>
+  <created sym="SPY" id="12345"/>
+</results>
+<results>
+  <error id="12345">user already exists</error>
+  <created sym="SPY" id="12345"/>
+</results>
+<results>
+  <error id="12345">user already exists</error>
+  <created sym="SPY" id="12345"/>
+</results>
+<results>
+  <error id="12345">user already exists</error>
+  <created sym="SPY" id="12345"/>
+</results>
+<results>
+  <error id="12345">user already exists</error>
+  <created sym="SPY" id="12345"/>
+</results>
+<results>
+  <error id="12345">user already exists</error>
+  <created sym="SPY" id="12345"/>
+</results>
+<results>
+  <error id="12345">user already exists</error>
+  <created sym="SPY" id="12345"/>
+</results>
+<results>
+  <error id="12345">user already exists</error>
+  <created sym="SPY" id="12345"/>
+</results>
+<results>
+  <error id="12345">user already exists</error>
+  <created sym="SPY" id="12345"/>
+</results>
+<results>
+  <error id="12345">user already exists</error>
+  <created sym="SPY" id="12345"/>
+</results>
+<results>
+  <error id="12345">user already exists</error>
+  <created sym="SPY" id="12345"/>
+</results>
+<results>
+  <error id="12345">user already exists</error>
+  <created sym="SPY" id="12345"/>
+</results>
+<results>
+  <error id="12345">user already exists</error>
+  <created sym="SPY" id="12345"/>
+</results>
+<results>
+  <error id="12345">user already exists</error>
+  <created sym="SPY" id="12345"/>
+</results>
+<results>
+  <error id="12345">user already exists</error>
+  <created sym="SPY" id="12345"/>
+</results>
+<results>
+  <error id="12345">user already exists</error>
+  <created sym="SPY" id="12345"/>
+</results>
+<results>
+  <error id="12345">user already exists</error>
+  <created sym="SPY" id="12345"/>
+</results>
+<results>
+  <error id="12345">user already exists</error>
+  <created sym="SPY" id="12345"/>
+</results>
+<results>
+  <error id="12345">user already exists</error>
+  <created sym="SPY" id="12345"/>
+</results>
+<results>
+  <error id="12345">user already exists</error>
+  <created sym="SPY" id="12345"/>
+</results>
+<results>
+  <error id="12345">user already exists</error>
+  <created sym="SPY" id="12345"/>
+</results>
+<results>
+  <error id="12345">user already exists</error>
+  <created sym="SPY" id="12345"/>
+</results>
+<results>
+  <error id="12345">user already exists</error>
+  <created sym="SPY" id="12345"/>
+</results>
+<results>
+  <error id="12345">user already exists</error>
+  <created sym="SPY" id="12345"/>
+</results>
+<results>
+  <error id="12345">user already exists</error>
+  <created sym="SPY" id="12345"/>
+</results>
+<results>
+  <error id="12345">user already exists</error>
+  <created sym="SPY" id="12345"/>
+</results>
+<results>
+  <error id="12345">user already exists</error>
+  <created sym="SPY" id="12345"/>
+</results>
+<results>
+  <error id="12345">user already exists</error>
+  <created sym="SPY" id="12345"/>
+</results>
+<results>
+  <error id="12345">user already exists</error>
+  <created sym="SPY" id="12345"/>
+</results>
+<results>
+  <error id="12345">user already exists</error>
+  <created sym="SPY" id="12345"/>
+</results>
+<results>
+  <error id="12345">user already exists</error>
+  <created sym="SPY" id="12345"/>
+</results>
+<results>
+  <error id="12345">user already exists</error>
+  <created sym="SPY" id="12345"/>
+</results>
+<results>
+  <error id="12345">user already exists</error>
+  <created sym="SPY" id="12345"/>
+</results>
+<results>
+  <error id="12345">user already exists</error>
+  <created sym="SPY" id="12345"/>
+</results>
+<results>
+  <error id="12345">user already exists</error>
+  <created sym="SPY" id="12345"/>
+</results>
+<results>
+  <error id="12345">user already exists</error>
+  <created sym="SPY" id="12345"/>
+</results>
+<results>
+  <error id="12345">user already exists</error>
+  <created sym="SPY" id="12345"/>
+</results>
+<results>
+  <error id="12345">user already exists</error>
+  <created sym="SPY" id="12345"/>
+</results>
+<results>
+  <error id="12345">user already exists</error>
+  <created sym="SPY" id="12345"/>
+</results>
+<results>
+  <error id="12345">user already exists</error>
+  <created sym="SPY" id="12345"/>
+</results>
+<results>
+  <error id="12345">user already exists</error>
+  <created sym="SPY" id="12345"/>
+</results>
+<results>
+  <error id="12345">user already exists</error>
+  <created sym="SPY" id="12345"/>
+</results>
+<results>
+  <error id="12345">user already exists</error>
+  <created sym="SPY" id="12345"/>
+</results>
+<results>
+  <error id="12345">user already exists</error>
+  <created sym="SPY" id="12345"/>
+</results>
+<results>
+  <error id="12345">user already exists</error>
+  <created sym="SPY" id="12345"/>
+</results>
+<results>
+  <error id="12345">user already exists</error>
+  <created sym="SPY" id="12345"/>
+</results>
+<results>
+  <error id="12345">user already exists</error>
+  <created sym="SPY" id="12345"/>
+</results>
+<results>
+  <error id="12345">user already exists</error>
+  <created sym="SPY" id="12345"/>
+</results>
+<results>
+  <error id="12345">user already exists</error>
+  <created sym="SPY" id="12345"/>
+</results>
+<results>
+  <error id="12345">user already exists</error>
+  <created sym="SPY" id="12345"/>
+</results>
+<results>
+  <error id="12345">user already exists</error>
+  <created sym="SPY" id="12345"/>
+</results>
+<results>
+  <error id="12345">user already exists</error>
+  <created sym="SPY" id="12345"/>
+</results>
+<results>
+  <error id="12345">user already exists</error>
+  <created sym="SPY" id="12345"/>
+</results>
+<results>
+  <error id="12345">user already exists</error>
+  <created sym="SPY" id="12345"/>
+</results>
+<results>
+  <error id="12345">user already exists</error>
+  <created sym="SPY" id="12345"/>
+</results>
+<results>
+  <error id="12345">user already exists</error>
+  <created sym="SPY" id="12345"/>
+</results>
+<results>
+  <error id="12345">user already exists</error>
+  <created sym="SPY" id="12345"/>
+</results>
+<results>
+  <error id="12345">user already exists</error>
+  <created sym="SPY" id="12345"/>
+</results>
+<results>
+  <error id="12345">user already exists</error>
+  <created sym="SPY" id="12345"/>
+</results>
+<results>
+  <error id="12345">user already exists</error>
+  <created sym="SPY" id="12345"/>
+</results>
+<results>
+  <error id="12345">user already exists</error>
+  <created sym="SPY" id="12345"/>
+</results>
+<results>
+  <error id="12345">user already exists</error>
+  <created sym="SPY" id="12345"/>
+</results>
+<results>
+  <error id="12345">user already exists</error>
+  <created sym="SPY" id="12345"/>
+</results>
+<results>
+  <error id="12345">user already exists</error>
+  <created sym="SPY" id="12345"/>
+</results>
+<results>
+  <error id="12345">user already exists</error>
+  <created sym="SPY" id="12345"/>
+</results>
+<results>
+  <error id="12345">user already exists</error>
+  <created sym="SPY" id="12345"/>
+</results>
+<results>
+  <error id="12345">user already exists</error>
+  <created sym="SPY" id="12345"/>
+</results>
+<results>
+  <error id="12345">user already exists</error>
+  <created sym="SPY" id="12345"/>
+</results>
+<results>
+  <error id="12345">user already exists</error>
+  <created sym="SPY" id="12345"/>
+</results>
+<results>
+  <error id="12345">user already exists</error>
+  <created sym="SPY" id="12345"/>
+</results>
+<results>
+  <error id="12345">user already exists</error>
+  <created sym="SPY" id="12345"/>
+</results>
+<results>
+  <error id="12345">user already exists</error>
+  <created sym="SPY" id="12345"/>
+</results>
+<results>
+  <error id="12345">user already exists</error>
+  <created sym="SPY" id="12345"/>
+</results>
+<results>
+  <error id="12345">user already exists</error>
+  <created sym="SPY" id="12345"/>
+</results>
+<results>
+  <error id="12345">user already exists</error>
+  <created sym="SPY" id="12345"/>
+</results>
+<results>
+  <error id="12345">user already exists</error>
+  <created sym="SPY" id="12345"/>
+</results>
+<results>
+  <error id="12345">user already exists</error>
+  <created sym="SPY" id="12345"/>
+</results>
+<results>
+  <error id="12345">user already exists</error>
+  <created sym="SPY" id="12345"/>
+</results>
+<results>
+  <error id="12345">user already exists</error>
+  <created sym="SPY" id="12345"/>
+</results>
+<results>
+  <error id="12345">user already exists</error>
+  <created sym="SPY" id="12345"/>
+</results>
+<results>
+  <error id="12345">user already exists</error>
+  <created sym="SPY" id="12345"/>
+</results>
+<results>
+  <error id="12345">user already exists</error>
+  <created sym="SPY" id="12345"/>
+</results>
+<results>
+  <error id="12345">user already exists</error>
+  <created sym="SPY" id="12345"/>
+</results>
+<results>
+  <error id="12345">user already exists</error>
+  <created sym="SPY" id="12345"/>
+</results>
+<results>
+  <error id="12345">user already exists</error>
+  <created sym="SPY" id="12345"/>
+</results>
+<results>
+  <error id="12345">user already exists</error>
+  <created sym="SPY" id="12345"/>
+</results>
+<results>
+  <error id="12345">user already exists</error>
+  <created sym="SPY" id="12345"/>
+</results>
+<results>
+  <error id="12345">user already exists</error>
+  <created sym="SPY" id="12345"/>
+</results>
+<results>
+  <error id="12345">user already exists</error>
+  <created sym="SPY" id="12345"/>
+</results>
+<results>
+  <error id="12345">user already exists</error>
+  <created sym="SPY" id="12345"/>
+</results>
+<results>
+  <error id="12345">user already exists</error>
+  <created sym="SPY" id="12345"/>
+</results>
+<results>
+  <error id="12345">user already exists</error>
+  <created sym="SPY" id="12345"/>
+</results>
+<results>
+  <error id="12345">user already exists</error>
+  <created sym="SPY" id="12345"/>
+</results>

@@ -1,0 +1,600 @@
+<results>
+  <opened sym="SPY" Amount="-1.00" limit="100.00" id="201"/>
+</results>
+<results>
+  <opened sym="SPY" Amount="-1.00" limit="100.00" id="202"/>
+</results>
+<results>
+  <opened sym="SPY" Amount="-1.00" limit="100.00" id="203"/>
+</results>
+<results>
+  <opened sym="SPY" Amount="-1.00" limit="100.00" id="204"/>
+</results>
+<results>
+  <opened sym="SPY" Amount="-1.00" limit="100.00" id="205"/>
+</results>
+<results>
+  <opened sym="SPY" Amount="-1.00" limit="100.00" id="206"/>
+</results>
+<results>
+  <opened sym="SPY" Amount="-1.00" limit="100.00" id="207"/>
+</results>
+<results>
+  <opened sym="SPY" Amount="-1.00" limit="100.00" id="208"/>
+</results>
+<results>
+  <opened sym="SPY" Amount="-1.00" limit="100.00" id="209"/>
+</results>
+<results>
+  <opened sym="SPY" Amount="-1.00" limit="100.00" id="210"/>
+</results>
+<results>
+  <opened sym="SPY" Amount="-1.00" limit="100.00" id="211"/>
+</results>
+<results>
+  <opened sym="SPY" Amount="-1.00" limit="100.00" id="212"/>
+</results>
+<results>
+  <opened sym="SPY" Amount="-1.00" limit="100.00" id="213"/>
+</results>
+<results>
+  <opened sym="SPY" Amount="-1.00" limit="100.00" id="214"/>
+</results>
+<results>
+  <opened sym="SPY" Amount="-1.00" limit="100.00" id="215"/>
+</results>
+<results>
+  <opened sym="SPY" Amount="-1.00" limit="100.00" id="216"/>
+</results>
+<results>
+  <opened sym="SPY" Amount="-1.00" limit="100.00" id="217"/>
+</results>
+<results>
+  <opened sym="SPY" Amount="-1.00" limit="100.00" id="218"/>
+</results>
+<results>
+  <opened sym="SPY" Amount="-1.00" limit="100.00" id="219"/>
+</results>
+<results>
+  <opened sym="SPY" Amount="-1.00" limit="100.00" id="220"/>
+</results>
+<results>
+  <opened sym="SPY" Amount="-1.00" limit="100.00" id="221"/>
+</results>
+<results>
+  <opened sym="SPY" Amount="-1.00" limit="100.00" id="222"/>
+</results>
+<results>
+  <opened sym="SPY" Amount="-1.00" limit="100.00" id="223"/>
+</results>
+<results>
+  <opened sym="SPY" Amount="-1.00" limit="100.00" id="224"/>
+</results>
+<results>
+  <opened sym="SPY" Amount="-1.00" limit="100.00" id="225"/>
+</results>
+<results>
+  <opened sym="SPY" Amount="-1.00" limit="100.00" id="226"/>
+</results>
+<results>
+  <opened sym="SPY" Amount="-1.00" limit="100.00" id="227"/>
+</results>
+<results>
+  <opened sym="SPY" Amount="-1.00" limit="100.00" id="228"/>
+</results>
+<results>
+  <opened sym="SPY" Amount="-1.00" limit="100.00" id="229"/>
+</results>
+<results>
+  <opened sym="SPY" Amount="-1.00" limit="100.00" id="230"/>
+</results>
+<results>
+  <opened sym="SPY" Amount="-1.00" limit="100.00" id="231"/>
+</results>
+<results>
+  <opened sym="SPY" Amount="-1.00" limit="100.00" id="232"/>
+</results>
+<results>
+  <opened sym="SPY" Amount="-1.00" limit="100.00" id="233"/>
+</results>
+<results>
+  <opened sym="SPY" Amount="-1.00" limit="100.00" id="234"/>
+</results>
+<results>
+  <opened sym="SPY" Amount="-1.00" limit="100.00" id="235"/>
+</results>
+<results>
+  <opened sym="SPY" Amount="-1.00" limit="100.00" id="236"/>
+</results>
+<results>
+  <opened sym="SPY" Amount="-1.00" limit="100.00" id="237"/>
+</results>
+<results>
+  <opened sym="SPY" Amount="-1.00" limit="100.00" id="238"/>
+</results>
+<results>
+  <opened sym="SPY" Amount="-1.00" limit="100.00" id="239"/>
+</results>
+<results>
+  <opened sym="SPY" Amount="-1.00" limit="100.00" id="240"/>
+</results>
+<results>
+  <opened sym="SPY" Amount="-1.00" limit="100.00" id="241"/>
+</results>
+<results>
+  <opened sym="SPY" Amount="-1.00" limit="100.00" id="242"/>
+</results>
+<results>
+  <opened sym="SPY" Amount="-1.00" limit="100.00" id="243"/>
+</results>
+<results>
+  <opened sym="SPY" Amount="-1.00" limit="100.00" id="244"/>
+</results>
+<results>
+  <opened sym="SPY" Amount="-1.00" limit="100.00" id="246"/>
+</results>
+<results>
+  <opened sym="SPY" Amount="-1.00" limit="100.00" id="245"/>
+</results>
+<results>
+  <opened sym="SPY" Amount="-1.00" limit="100.00" id="247"/>
+</results>
+<results>
+  <opened sym="SPY" Amount="-1.00" limit="100.00" id="248"/>
+</results>
+<results>
+  <opened sym="SPY" Amount="-1.00" limit="100.00" id="249"/>
+</results>
+<results>
+  <opened sym="SPY" Amount="-1.00" limit="100.00" id="250"/>
+</results>
+<results>
+  <opened sym="SPY" Amount="-1.00" limit="100.00" id="251"/>
+</results>
+<results>
+  <opened sym="SPY" Amount="-1.00" limit="100.00" id="252"/>
+</results>
+<results>
+  <opened sym="SPY" Amount="-1.00" limit="100.00" id="253"/>
+</results>
+<results>
+  <opened sym="SPY" Amount="-1.00" limit="100.00" id="255"/>
+</results>
+<results>
+  <opened sym="SPY" Amount="-1.00" limit="100.00" id="254"/>
+</results>
+<results>
+  <opened sym="SPY" Amount="-1.00" limit="100.00" id="256"/>
+</results>
+<results>
+  <opened sym="SPY" Amount="-1.00" limit="100.00" id="257"/>
+</results>
+<results>
+  <opened sym="SPY" Amount="-1.00" limit="100.00" id="258"/>
+</results>
+<results>
+  <opened sym="SPY" Amount="-1.00" limit="100.00" id="259"/>
+</results>
+<results>
+  <opened sym="SPY" Amount="-1.00" limit="100.00" id="260"/>
+</results>
+<results>
+  <opened sym="SPY" Amount="-1.00" limit="100.00" id="261"/>
+</results>
+<results>
+  <opened sym="SPY" Amount="-1.00" limit="100.00" id="262"/>
+</results>
+<results>
+  <opened sym="SPY" Amount="-1.00" limit="100.00" id="263"/>
+</results>
+<results>
+  <opened sym="SPY" Amount="-1.00" limit="100.00" id="264"/>
+</results>
+<results>
+  <opened sym="SPY" Amount="-1.00" limit="100.00" id="265"/>
+</results>
+<results>
+  <opened sym="SPY" Amount="-1.00" limit="100.00" id="266"/>
+</results>
+<results>
+  <opened sym="SPY" Amount="-1.00" limit="100.00" id="267"/>
+</results>
+<results>
+  <opened sym="SPY" Amount="-1.00" limit="100.00" id="268"/>
+</results>
+<results>
+  <opened sym="SPY" Amount="-1.00" limit="100.00" id="269"/>
+</results>
+<results>
+  <opened sym="SPY" Amount="-1.00" limit="100.00" id="270"/>
+</results>
+<results>
+  <opened sym="SPY" Amount="-1.00" limit="100.00" id="271"/>
+</results>
+<results>
+  <opened sym="SPY" Amount="-1.00" limit="100.00" id="272"/>
+</results>
+<results>
+  <opened sym="SPY" Amount="-1.00" limit="100.00" id="273"/>
+</results>
+<results>
+  <opened sym="SPY" Amount="-1.00" limit="100.00" id="274"/>
+</results>
+<results>
+  <opened sym="SPY" Amount="-1.00" limit="100.00" id="275"/>
+</results>
+<results>
+  <opened sym="SPY" Amount="-1.00" limit="100.00" id="276"/>
+</results>
+<results>
+  <opened sym="SPY" Amount="-1.00" limit="100.00" id="277"/>
+</results>
+<results>
+  <opened sym="SPY" Amount="-1.00" limit="100.00" id="278"/>
+</results>
+<results>
+  <opened sym="SPY" Amount="-1.00" limit="100.00" id="279"/>
+</results>
+<results>
+  <opened sym="SPY" Amount="-1.00" limit="100.00" id="280"/>
+</results>
+<results>
+  <opened sym="SPY" Amount="-1.00" limit="100.00" id="282"/>
+</results>
+<results>
+  <opened sym="SPY" Amount="-1.00" limit="100.00" id="281"/>
+</results>
+<results>
+  <opened sym="SPY" Amount="-1.00" limit="100.00" id="283"/>
+</results>
+<results>
+  <opened sym="SPY" Amount="-1.00" limit="100.00" id="284"/>
+</results>
+<results>
+  <opened sym="SPY" Amount="-1.00" limit="100.00" id="285"/>
+</results>
+<results>
+  <opened sym="SPY" Amount="-1.00" limit="100.00" id="286"/>
+</results>
+<results>
+  <opened sym="SPY" Amount="-1.00" limit="100.00" id="287"/>
+</results>
+<results>
+  <opened sym="SPY" Amount="-1.00" limit="100.00" id="288"/>
+</results>
+<results>
+  <opened sym="SPY" Amount="-1.00" limit="100.00" id="289"/>
+</results>
+<results>
+  <opened sym="SPY" Amount="-1.00" limit="100.00" id="290"/>
+</results>
+<results>
+  <opened sym="SPY" Amount="-1.00" limit="100.00" id="291"/>
+</results>
+<results>
+  <opened sym="SPY" Amount="-1.00" limit="100.00" id="292"/>
+</results>
+<results>
+  <opened sym="SPY" Amount="-1.00" limit="100.00" id="293"/>
+</results>
+<results>
+  <opened sym="SPY" Amount="-1.00" limit="100.00" id="294"/>
+</results>
+<results>
+  <opened sym="SPY" Amount="-1.00" limit="100.00" id="295"/>
+</results>
+<results>
+  <opened sym="SPY" Amount="-1.00" limit="100.00" id="296"/>
+</results>
+<results>
+  <opened sym="SPY" Amount="-1.00" limit="100.00" id="297"/>
+</results>
+<results>
+  <opened sym="SPY" Amount="-1.00" limit="100.00" id="298"/>
+</results>
+<results>
+  <opened sym="SPY" Amount="-1.00" limit="100.00" id="299"/>
+</results>
+<results>
+  <opened sym="SPY" Amount="-1.00" limit="100.00" id="300"/>
+</results>
+<results>
+  <error sym="SPY" Amount="-1.00" limit="100.00" >insufficient symbols</error>
+</results>
+<results>
+  <error sym="SPY" Amount="-1.00" limit="100.00" >insufficient symbols</error>
+</results>
+<results>
+  <error sym="SPY" Amount="-1.00" limit="100.00" >insufficient symbols</error>
+</results>
+<results>
+  <error sym="SPY" Amount="-1.00" limit="100.00" >insufficient symbols</error>
+</results>
+<results>
+  <error sym="SPY" Amount="-1.00" limit="100.00" >insufficient symbols</error>
+</results>
+<results>
+  <error sym="SPY" Amount="-1.00" limit="100.00" >insufficient symbols</error>
+</results>
+<results>
+  <error sym="SPY" Amount="-1.00" limit="100.00" >insufficient symbols</error>
+</results>
+<results>
+  <error sym="SPY" Amount="-1.00" limit="100.00" >insufficient symbols</error>
+</results>
+<results>
+  <error sym="SPY" Amount="-1.00" limit="100.00" >insufficient symbols</error>
+</results>
+<results>
+  <error sym="SPY" Amount="-1.00" limit="100.00" >insufficient symbols</error>
+</results>
+<results>
+  <error sym="SPY" Amount="-1.00" limit="100.00" >insufficient symbols</error>
+</results>
+<results>
+  <error sym="SPY" Amount="-1.00" limit="100.00" >insufficient symbols</error>
+</results>
+<results>
+  <error sym="SPY" Amount="-1.00" limit="100.00" >insufficient symbols</error>
+</results>
+<results>
+  <error sym="SPY" Amount="-1.00" limit="100.00" >insufficient symbols</error>
+</results>
+<results>
+  <error sym="SPY" Amount="-1.00" limit="100.00" >insufficient symbols</error>
+</results>
+<results>
+  <error sym="SPY" Amount="-1.00" limit="100.00" >insufficient symbols</error>
+</results>
+<results>
+  <error sym="SPY" Amount="-1.00" limit="100.00" >insufficient symbols</error>
+</results>
+<results>
+  <error sym="SPY" Amount="-1.00" limit="100.00" >insufficient symbols</error>
+</results>
+<results>
+  <error sym="SPY" Amount="-1.00" limit="100.00" >insufficient symbols</error>
+</results>
+<results>
+  <error sym="SPY" Amount="-1.00" limit="100.00" >insufficient symbols</error>
+</results>
+<results>
+  <error sym="SPY" Amount="-1.00" limit="100.00" >insufficient symbols</error>
+</results>
+<results>
+  <error sym="SPY" Amount="-1.00" limit="100.00" >insufficient symbols</error>
+</results>
+<results>
+  <error sym="SPY" Amount="-1.00" limit="100.00" >insufficient symbols</error>
+</results>
+<results>
+  <error sym="SPY" Amount="-1.00" limit="100.00" >insufficient symbols</error>
+</results>
+<results>
+  <error sym="SPY" Amount="-1.00" limit="100.00" >insufficient symbols</error>
+</results>
+<results>
+  <error sym="SPY" Amount="-1.00" limit="100.00" >insufficient symbols</error>
+</results>
+<results>
+  <error sym="SPY" Amount="-1.00" limit="100.00" >insufficient symbols</error>
+</results>
+<results>
+  <error sym="SPY" Amount="-1.00" limit="100.00" >insufficient symbols</error>
+</results>
+<results>
+  <error sym="SPY" Amount="-1.00" limit="100.00" >insufficient symbols</error>
+</results>
+<results>
+  <error sym="SPY" Amount="-1.00" limit="100.00" >insufficient symbols</error>
+</results>
+<results>
+  <error sym="SPY" Amount="-1.00" limit="100.00" >insufficient symbols</error>
+</results>
+<results>
+  <error sym="SPY" Amount="-1.00" limit="100.00" >insufficient symbols</error>
+</results>
+<results>
+  <error sym="SPY" Amount="-1.00" limit="100.00" >insufficient symbols</error>
+</results>
+<results>
+  <error sym="SPY" Amount="-1.00" limit="100.00" >insufficient symbols</error>
+</results>
+<results>
+  <error sym="SPY" Amount="-1.00" limit="100.00" >insufficient symbols</error>
+</results>
+<results>
+  <error sym="SPY" Amount="-1.00" limit="100.00" >insufficient symbols</error>
+</results>
+<results>
+  <error sym="SPY" Amount="-1.00" limit="100.00" >insufficient symbols</error>
+</results>
+<results>
+  <error sym="SPY" Amount="-1.00" limit="100.00" >insufficient symbols</error>
+</results>
+<results>
+  <error sym="SPY" Amount="-1.00" limit="100.00" >insufficient symbols</error>
+</results>
+<results>
+  <error sym="SPY" Amount="-1.00" limit="100.00" >insufficient symbols</error>
+</results>
+<results>
+  <error sym="SPY" Amount="-1.00" limit="100.00" >insufficient symbols</error>
+</results>
+<results>
+  <error sym="SPY" Amount="-1.00" limit="100.00" >insufficient symbols</error>
+</results>
+<results>
+  <error sym="SPY" Amount="-1.00" limit="100.00" >insufficient symbols</error>
+</results>
+<results>
+  <error sym="SPY" Amount="-1.00" limit="100.00" >insufficient symbols</error>
+</results>
+<results>
+  <error sym="SPY" Amount="-1.00" limit="100.00" >insufficient symbols</error>
+</results>
+<results>
+  <error sym="SPY" Amount="-1.00" limit="100.00" >insufficient symbols</error>
+</results>
+<results>
+  <error sym="SPY" Amount="-1.00" limit="100.00" >insufficient symbols</error>
+</results>
+<results>
+  <error sym="SPY" Amount="-1.00" limit="100.00" >insufficient symbols</error>
+</results>
+<results>
+  <error sym="SPY" Amount="-1.00" limit="100.00" >insufficient symbols</error>
+</results>
+<results>
+  <error sym="SPY" Amount="-1.00" limit="100.00" >insufficient symbols</error>
+</results>
+<results>
+  <error sym="SPY" Amount="-1.00" limit="100.00" >insufficient symbols</error>
+</results>
+<results>
+  <error sym="SPY" Amount="-1.00" limit="100.00" >insufficient symbols</error>
+</results>
+<results>
+  <error sym="SPY" Amount="-1.00" limit="100.00" >insufficient symbols</error>
+</results>
+<results>
+  <error sym="SPY" Amount="-1.00" limit="100.00" >insufficient symbols</error>
+</results>
+<results>
+  <error sym="SPY" Amount="-1.00" limit="100.00" >insufficient symbols</error>
+</results>
+<results>
+  <error sym="SPY" Amount="-1.00" limit="100.00" >insufficient symbols</error>
+</results>
+<results>
+  <error sym="SPY" Amount="-1.00" limit="100.00" >insufficient symbols</error>
+</results>
+<results>
+  <error sym="SPY" Amount="-1.00" limit="100.00" >insufficient symbols</error>
+</results>
+<results>
+  <error sym="SPY" Amount="-1.00" limit="100.00" >insufficient symbols</error>
+</results>
+<results>
+  <error sym="SPY" Amount="-1.00" limit="100.00" >insufficient symbols</error>
+</results>
+<results>
+  <error sym="SPY" Amount="-1.00" limit="100.00" >insufficient symbols</error>
+</results>
+<results>
+  <error sym="SPY" Amount="-1.00" limit="100.00" >insufficient symbols</error>
+</results>
+<results>
+  <error sym="SPY" Amount="-1.00" limit="100.00" >insufficient symbols</error>
+</results>
+<results>
+  <error sym="SPY" Amount="-1.00" limit="100.00" >insufficient symbols</error>
+</results>
+<results>
+  <error sym="SPY" Amount="-1.00" limit="100.00" >insufficient symbols</error>
+</results>
+<results>
+  <error sym="SPY" Amount="-1.00" limit="100.00" >insufficient symbols</error>
+</results>
+<results>
+  <error sym="SPY" Amount="-1.00" limit="100.00" >insufficient symbols</error>
+</results>
+<results>
+  <error sym="SPY" Amount="-1.00" limit="100.00" >insufficient symbols</error>
+</results>
+<results>
+  <error sym="SPY" Amount="-1.00" limit="100.00" >insufficient symbols</error>
+</results>
+<results>
+  <error sym="SPY" Amount="-1.00" limit="100.00" >insufficient symbols</error>
+</results>
+<results>
+  <error sym="SPY" Amount="-1.00" limit="100.00" >insufficient symbols</error>
+</results>
+<results>
+  <error sym="SPY" Amount="-1.00" limit="100.00" >insufficient symbols</error>
+</results>
+<results>
+  <error sym="SPY" Amount="-1.00" limit="100.00" >insufficient symbols</error>
+</results>
+<results>
+  <error sym="SPY" Amount="-1.00" limit="100.00" >insufficient symbols</error>
+</results>
+<results>
+  <error sym="SPY" Amount="-1.00" limit="100.00" >insufficient symbols</error>
+</results>
+<results>
+  <error sym="SPY" Amount="-1.00" limit="100.00" >insufficient symbols</error>
+</results>
+<results>
+  <error sym="SPY" Amount="-1.00" limit="100.00" >insufficient symbols</error>
+</results>
+<results>
+  <error sym="SPY" Amount="-1.00" limit="100.00" >insufficient symbols</error>
+</results>
+<results>
+  <error sym="SPY" Amount="-1.00" limit="100.00" >insufficient symbols</error>
+</results>
+<results>
+  <error sym="SPY" Amount="-1.00" limit="100.00" >insufficient symbols</error>
+</results>
+<results>
+  <error sym="SPY" Amount="-1.00" limit="100.00" >insufficient symbols</error>
+</results>
+<results>
+  <error sym="SPY" Amount="-1.00" limit="100.00" >insufficient symbols</error>
+</results>
+<results>
+  <error sym="SPY" Amount="-1.00" limit="100.00" >insufficient symbols</error>
+</results>
+<results>
+  <error sym="SPY" Amount="-1.00" limit="100.00" >insufficient symbols</error>
+</results>
+<results>
+  <error sym="SPY" Amount="-1.00" limit="100.00" >insufficient symbols</error>
+</results>
+<results>
+  <error sym="SPY" Amount="-1.00" limit="100.00" >insufficient symbols</error>
+</results>
+<results>
+  <error sym="SPY" Amount="-1.00" limit="100.00" >insufficient symbols</error>
+</results>
+<results>
+  <error sym="SPY" Amount="-1.00" limit="100.00" >insufficient symbols</error>
+</results>
+<results>
+  <error sym="SPY" Amount="-1.00" limit="100.00" >insufficient symbols</error>
+</results>
+<results>
+  <error sym="SPY" Amount="-1.00" limit="100.00" >insufficient symbols</error>
+</results>
+<results>
+  <error sym="SPY" Amount="-1.00" limit="100.00" >insufficient symbols</error>
+</results>
+<results>
+  <error sym="SPY" Amount="-1.00" limit="100.00" >insufficient symbols</error>
+</results>
+<results>
+  <error sym="SPY" Amount="-1.00" limit="100.00" >insufficient symbols</error>
+</results>
+<results>
+  <error sym="SPY" Amount="-1.00" limit="100.00" >insufficient symbols</error>
+</results>
+<results>
+  <error sym="SPY" Amount="-1.00" limit="100.00" >insufficient symbols</error>
+</results>
+<results>
+  <error sym="SPY" Amount="-1.00" limit="100.00" >insufficient symbols</error>
+</results>
+<results>
+  <error sym="SPY" Amount="-1.00" limit="100.00" >insufficient symbols</error>
+</results>
+<results>
+  <error sym="SPY" Amount="-1.00" limit="100.00" >insufficient symbols</error>
+</results>
+<results>
+  <error sym="SPY" Amount="-1.00" limit="100.00" >insufficient symbols</error>
+</results>
+<results>
+  <error sym="SPY" Amount="-1.00" limit="100.00" >insufficient symbols</error>
+</results>
